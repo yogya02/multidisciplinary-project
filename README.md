@@ -44,9 +44,9 @@ wildfire-detection
 
 ## Environment
 - Platform: Google Colab (GPU enabled)
-- Python: [version]
-- TensorFlow / Keras: [version]
-- OpenCV: [version]
+- Python: 3
+- TensorFlow / Keras: 2.21.0
+- OpenCV: 4.14.0
 
 ## Timeline
 | Review | Date | Scope |
