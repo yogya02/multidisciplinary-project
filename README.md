@@ -31,7 +31,7 @@ The paper proposes a 3D-CNN that classifies each pixel of GOES-16 imagery as fir
 
 The dataset and trained models are stored in Google Drive, not in this repository, because of their size.
 
-**Shared Drive folder:** [Drive link]
+**Shared Drive folder:** https://drive.google.com/drive/folders/1kegPLKhI-GY1xs4lZNy3z7T9Dbk0Bbor?usp=drive_link
 
 ## Repository structure
 ```
