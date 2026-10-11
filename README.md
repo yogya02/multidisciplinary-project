@@ -56,7 +56,7 @@ wildfire-detection
 | Review-III | 12-16 Apr 2027 | Complete project, demo and report |
 
 ## Progress
-- [ ] Environment and repository setup
+- [x] Environment and repository setup
 - [ ] Dataset downloaded and documented
 - [ ] Data exploration
 - [ ] Preprocessing
