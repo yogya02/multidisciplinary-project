@@ -13,14 +13,7 @@ The paper proposes a 3D-CNN that classifies each pixel of GOES-16 imagery as fir
 3. Evaluate it with precision, recall and F1-score, and compare it against a simple baseline.
 4. Build a Streamlit app where a user uploads an image and gets a prediction.
 
-## Team
-| Member | Role |
-|---|---|
-| Yogya | Team lead and environment |
-| Pavan | Data acquisition and literature review |
-| Rohan | Exploratory data analysis |
-| Rounak | Preprocessing |
-| Rithanya | Augmentation, splits and documentation |
+
 
 ## Dataset
 - **Name:** Wildfire Prediction Dataset (Satellite Images)
