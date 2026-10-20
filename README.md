@@ -50,8 +50,8 @@ wildfire-detection
 
 ## Progress
 - [x] Environment and repository setup
-- [ ] Dataset downloaded and documented
-- [ ] Data exploration
+- [x] Dataset downloaded and documented
+- [x] Data exploration
 - [ ] Preprocessing
 - [ ] Augmentation and train/validation/test split
 - [ ] Model training
