@@ -52,7 +52,7 @@ wildfire-detection
 - [x] Environment and repository setup
 - [x] Dataset downloaded and documented
 - [x] Data exploration
-- [ ] Preprocessing
+- [x] Preprocessing
 - [ ] Augmentation and train/validation/test split
 - [ ] Model training
 - [ ] Evaluation against baseline
